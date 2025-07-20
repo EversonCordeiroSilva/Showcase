@@ -7,6 +7,6 @@
 [submodule "IoT/arduino"]
 	path = IoT/arduino
 	url = https://github.com/EversonCordeiroSilva/arduino.git
-[submodule "Automations/Automations"]
-	path = Automations/Automations
-	url = https://github.com/EversonCordeiroSilva/Automations.git
+[submodule "Automations/API/automation-api-template"]
+	path = Automations/API/automation-api-template
+	url = https://github.com/EversonCordeiroSilva/automation-api-template.git
