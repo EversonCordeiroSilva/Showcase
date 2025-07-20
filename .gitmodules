@@ -1,0 +1,12 @@
+[submodule "Websites_&_Apis/Portfolio"]
+	path = Websites_&_Apis/Portfolio
+	url = https://github.com/EversonCordeiroSilva/Portfolio.git
+[submodule "Others/bot_discord"]
+	path = Others/bot_discord
+	url = https://github.com/EversonCordeiroSilva/bot_discord.git
+[submodule "IoT/arduino"]
+	path = IoT/arduino
+	url = https://github.com/EversonCordeiroSilva/arduino.git
+[submodule "Automations/Automations"]
+	path = Automations/Automations
+	url = https://github.com/EversonCordeiroSilva/Automations.git
